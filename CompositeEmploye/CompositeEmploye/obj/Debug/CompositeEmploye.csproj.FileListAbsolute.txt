@@ -1,0 +1,7 @@
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\CompositeEmploye\CompositeEmploye\bin\Debug\CompositeEmploye.exe.config
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\CompositeEmploye\CompositeEmploye\bin\Debug\CompositeEmploye.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\CompositeEmploye\CompositeEmploye\bin\Debug\CompositeEmploye.pdb
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\CompositeEmploye\CompositeEmploye\obj\Debug\CompositeEmploye.csprojAssemblyReference.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\CompositeEmploye\CompositeEmploye\obj\Debug\CompositeEmploye.csproj.CoreCompileInputs.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\CompositeEmploye\CompositeEmploye\obj\Debug\CompositeEmploye.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\CompositeEmploye\CompositeEmploye\obj\Debug\CompositeEmploye.pdb

@@ -1,0 +1,7 @@
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\AdapterOnlineStore\AdapterOnlineStore\obj\Debug\AdapterOnlineStore.csprojAssemblyReference.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\AdapterOnlineStore\AdapterOnlineStore\obj\Debug\AdapterOnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\AdapterOnlineStore\AdapterOnlineStore\bin\Debug\AdapterOnlineStore.exe.config
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\AdapterOnlineStore\AdapterOnlineStore\bin\Debug\AdapterOnlineStore.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\AdapterOnlineStore\AdapterOnlineStore\bin\Debug\AdapterOnlineStore.pdb
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\AdapterOnlineStore\AdapterOnlineStore\obj\Debug\AdapterOnlineStore.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\AdapterOnlineStore\AdapterOnlineStore\obj\Debug\AdapterOnlineStore.pdb

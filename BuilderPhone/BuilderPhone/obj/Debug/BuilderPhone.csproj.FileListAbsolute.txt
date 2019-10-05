@@ -1,0 +1,7 @@
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\BuilderPhone\BuilderPhone\bin\Debug\BuilderPhone.exe.config
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\BuilderPhone\BuilderPhone\bin\Debug\BuilderPhone.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\BuilderPhone\BuilderPhone\bin\Debug\BuilderPhone.pdb
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\BuilderPhone\BuilderPhone\obj\Debug\BuilderPhone.csprojAssemblyReference.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\BuilderPhone\BuilderPhone\obj\Debug\BuilderPhone.csproj.CoreCompileInputs.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\BuilderPhone\BuilderPhone\obj\Debug\BuilderPhone.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\BuilderPhone\BuilderPhone\obj\Debug\BuilderPhone.pdb
