@@ -1,0 +1,7 @@
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\TVBridge\TVBridge\obj\Debug\TVBridge.csprojAssemblyReference.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\TVBridge\TVBridge\obj\Debug\TVBridge.csproj.CoreCompileInputs.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\TVBridge\TVBridge\bin\Debug\TVBridge.exe.config
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\TVBridge\TVBridge\bin\Debug\TVBridge.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\TVBridge\TVBridge\bin\Debug\TVBridge.pdb
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\TVBridge\TVBridge\obj\Debug\TVBridge.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\TVBridge\TVBridge\obj\Debug\TVBridge.pdb

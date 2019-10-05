@@ -1,0 +1,7 @@
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\PrototypeAnimal\PrototypeAnimal\bin\Debug\PrototypeAnimal.exe.config
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\PrototypeAnimal\PrototypeAnimal\bin\Debug\PrototypeAnimal.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\PrototypeAnimal\PrototypeAnimal\bin\Debug\PrototypeAnimal.pdb
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\PrototypeAnimal\PrototypeAnimal\obj\Debug\PrototypeAnimal.csprojAssemblyReference.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\PrototypeAnimal\PrototypeAnimal\obj\Debug\PrototypeAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\PrototypeAnimal\PrototypeAnimal\obj\Debug\PrototypeAnimal.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\PrototypeAnimal\PrototypeAnimal\obj\Debug\PrototypeAnimal.pdb

@@ -1,0 +1,7 @@
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\FacadeHouseManager\FacadeHouseManager\bin\Debug\FacadeHouseManager.exe.config
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\FacadeHouseManager\FacadeHouseManager\bin\Debug\FacadeHouseManager.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\FacadeHouseManager\FacadeHouseManager\bin\Debug\FacadeHouseManager.pdb
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\FacadeHouseManager\FacadeHouseManager\obj\Debug\FacadeHouseManager.csprojAssemblyReference.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\FacadeHouseManager\FacadeHouseManager\obj\Debug\FacadeHouseManager.csproj.CoreCompileInputs.cache
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\FacadeHouseManager\FacadeHouseManager\obj\Debug\FacadeHouseManager.exe
+C:\Users\Camil\OneDrive\Documentos\Cami\universidad\6s\Tecnologias de software I\DesignPatter\FacadeHouseManager\FacadeHouseManager\obj\Debug\FacadeHouseManager.pdb
